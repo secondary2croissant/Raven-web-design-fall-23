@@ -1,0 +1,56 @@
+.dounce {
+    background-color: aliceblue;
+    text-align: center;
+}
+
+body {
+    background-color: aliceblue;
+}
+
+.pic {
+    margin-left: 3em;
+    border-style: double;
+    border-color: aliceblue;
+}
+
+.wordswordswords {
+    background-color: aliceblue;
+}
+
+.cover {
+    background-image: url(mac\ miller\ preforming.jfif);
+    background-size: 500px;
+}
+
+#onhoverfb {
+    visibility: hidden;
+    margin-left: 3em;
+}
+#blueslide:hover~#onhoverfb {
+    visibility: visible;
+    transition-delay: 0.5s;
+}
+#macword{
+    visibility: hidden;
+    margin-left: 3em;
+    padding: 10px;
+}
+#mac:hover~#macword{
+    visibility: visible;
+    transition-delay: 0.5;
+} 
+.parkparkpark {
+    color: dodgerblue;
+}
+#macheadshot{
+    width: 100px;
+    height: 75px;
+    margin-left: 2em;
+    padding: 10px;
+}
+.park{
+    color: aliceblue;
+}
+.line{
+    color: aliceblue;
+}
