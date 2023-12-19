@@ -1,6 +1,7 @@
 .dounce {
-    background-color: aliceblue;
+    background-color: dodgerblue;
     text-align: center;
+    text-shadow: white 2px 3px 3px;
 }
 
 body {
@@ -14,7 +15,8 @@ body {
 }
 
 .wordswordswords {
-    background-color: aliceblue;
+    background-color: dodgerblue;
+    text-shadow: white 2px 3px 3px;
 }
 
 .cover {
@@ -28,7 +30,7 @@ body {
 }
 #blueslide:hover~#onhoverfb {
     visibility: visible;
-    transition-delay: 0.5s;
+    text-align: center;
 }
 #macword{
     visibility: hidden;
@@ -37,14 +39,13 @@ body {
 }
 #mac:hover~#macword{
     visibility: visible;
-    transition-delay: 0.5;
 } 
 .parkparkpark {
     color: dodgerblue;
 }
 #macheadshot{
-    width: 100px;
-    height: 75px;
+    width: 150px;
+    height: 100px;
     margin-left: 2em;
     padding: 10px;
 }
@@ -53,4 +54,126 @@ body {
 }
 .line{
     color: aliceblue;
+}
+.hi{
+    padding: 2em;
+    height: 300px;
+    width: 290px;
+}
+.it{
+    text-align: center;
+    color: dodgerblue;
+    text-shadow: white 2px 3px 3px;
+}
+.port-title{
+    text-align: center;
+    background-color: dodgerblue;
+    text-shadow: white 2px 3px 3px;
+}
+#blueslide{
+    color: dodgerblue;
+    margin-left: 2em;
+    text-shadow: white 2px 3px 3px;
+}
+#watchingmovies{
+    color: red;
+    text-shadow: white 2px 3px 3px;
+    margin-left: 1em;
+}
+#goodam{
+    color: white;
+    margin-left: 3em;
+    text-shadow: black 3px 5px 3px;
+}
+#kids{
+    margin-left: 4em;
+    color: green;
+    text-shadow: white 2px 3px 3px;
+}
+#faces{
+    color: yellow;
+    margin-left: 4em;
+    text-shadow: white 2px 3px 3px;
+}
+#divine{
+    color: pink;
+    margin-left: 1em;
+    text-shadow: white 2px 3px 3px;
+}
+#macin{
+    width: 150px;
+    height: 100px;
+    margin-left: 2em;
+}
+#abmac{
+    margin-left: 3em;
+    color: brown;
+    text-shadow: white 2px 3px 3px;
+}
+.fam{
+    text-align: center;
+    background-color: dodgerblue;
+    color: black;
+    text-shadow: whitesmoke 2px 3px 3px;
+}
+#youtube{
+    height: 150px;
+    width: 150px;
+    margin-left: 2em;
+}
+#insta{
+    height: 150px;
+    width: 150px;
+    margin-left: 2em;
+}
+#x{
+    height: 150px;
+    width: 150px;
+    margin-left: 2em;
+}
+.foot{
+    padding: 3em;
+}
+#phone{
+    width: 150px;
+    height: 100px;
+    margin-left: 2em;
+    padding: 10px;
+}
+#champ:hover~#contact{
+    visibility: visible;
+}
+#contact{
+    visibility: hidden;
+    margin-left: 4em;
+    padding: 10px;
+}
+#pone{
+    width: 150px;
+    height: 100px;
+    margin-left: 2em;
+}
+#abpone{
+    margin-left: 3em;
+    color: brown;
+    text-shadow: white 2px 3px 3px;
+}
+.swim{
+    margin-left: 3em;
+    width: 270px;
+    height: 300px;
+    border-style: double;
+    border-color: dodgerblue;
+}
+.ari{
+    height: 250px;
+    margin-left: 3em;
+    width: 270px;
+    border-style: double;
+    border-color: dodgerblue;
+}
+.macdead{
+    background-color: dodgerblue;
+    text-shadow: white 2px 3px 3px;
+    text-align: center;
 }
